@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sebastian-Marten
+- 👋 Hi, I’m @SebM668
 - 👀 I’m interested in learning about new tech.
 - 💞️ I’m looking to collaborate on anything interesting.
 
