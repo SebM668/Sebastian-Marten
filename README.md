@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sebastian-Marten
 - 👀 I’m interested in learning about new tech.
-- 🌱 I’m currently learning .NET 6...
 - 💞️ I’m looking to collaborate on anything interesting.
 
 <!---
